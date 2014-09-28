@@ -1,15 +1,19 @@
 package MainPackage;
 
-public class MyClass {
+public class MyClass 
+{
 
 	public static void main(String[] args) {
 
 	}
 
+	
 	public static boolean ReturnTrue()
 	{
-		return true;		
+		
+		return false;		
 	}
+	
 	
 	public static int AddTwoNumbers(int nbr1, int nbr2)
 	{
